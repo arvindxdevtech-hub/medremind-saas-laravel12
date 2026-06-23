@@ -527,7 +527,7 @@ Production Cron
 Email:
 
 ```text
-demo@medremind.com
+arvinddevtech@medremind.com
 ```
 
 Password:
