@@ -601,6 +601,14 @@ Password:
 
 ---
 
+## 📚 Additional Documentation
+
+For detailed developer documentation, architecture, commands, events, listeners, scheduler flow and project internals:
+
+👉 See [DEV.md](DEV.md)
+
+---
+
 # 👨‍💻 Author
 
 Arvind Singh
